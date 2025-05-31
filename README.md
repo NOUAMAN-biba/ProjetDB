@@ -20,7 +20,7 @@ Application web développée avec Streamlit et SQLite pour la gestion des réser
 ```
 ProjetDB/
 ├── Projet_Hotel.py                 # Application Streamlit principale
-├── README.md             # Ce fichier
+├── README.md             # information 
 ├── Projet_Hotel_BD.db  # Base de données SQLite (créée automatiquement)
 └── Requêtes en Algèbre Relationnelle.pdf
 ```
